@@ -7,7 +7,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: defectdojo-upload:latest
+  IMAGE_NAME: telkomindonesia/defectdojo-upload:latest
 
 jobs:
   build-and-push-image:
